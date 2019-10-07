@@ -1,0 +1,7 @@
+header, div, input {
+    height: 10rem;
+}
+body{
+    background-color: rgb(231, 150, 123);
+    color: rgb(219, 47, 81);
+}
