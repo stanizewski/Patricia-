@@ -9,6 +9,16 @@
 }
 
 .griditems{
-background: rgb(61, 224, 208);
+background: rgb(170, 190, 188);
 height:150px;
+}
+.item-3{
+    order: -1;
+
+    .header {
+        height: 98vh;
+        background: url (kamera.jpg) 
+
+    }
+    
 }
